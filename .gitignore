@@ -1,0 +1,25 @@
+# Compiled executables
+main
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Static & Dynamic Libraries
+*.a
+*.so
+*.dll
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Editor backup files
+*~
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
